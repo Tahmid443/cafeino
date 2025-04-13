@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.about-text{
+  color: #9B6130;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+  display: none !important;
+}

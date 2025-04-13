@@ -1,0 +1,18 @@
+/* Custom styles */
+.process-icon {
+    width: 80px;
+    height: 80px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .carousel-caption {
+        position: relative;
+        left: auto;
+        right: auto;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: initial;
+        text-align: center;
+    }
+}
